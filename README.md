@@ -1,4 +1,4 @@
-<h1>To Do List App (HTML, CSS, JS + Node Js Express + MongoDB, Mongoose + Heroku)</h1>
+<h1>To Do List App (HTML, CSS, JS + Node Js Express + EJS + MongoDB, Mongoose + Heroku)</h1>
 
  ### [See LIVE in the Browser](https://polar-island-34443.herokuapp.com/)
 
