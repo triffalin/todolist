@@ -13,6 +13,7 @@ This project gives you the opportunity to have your to-do list with a click away
 - <b>CSS</b>
 - <b>JavaScript</b>
 - <b>Node Js Express</b>
+- <b>EJS</b>
 - <b>MongoDB</b>
 - <b>Mongoose</b>
 - <b>Heroku Server</b>
